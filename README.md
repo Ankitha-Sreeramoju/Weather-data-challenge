@@ -1,4 +1,4 @@
-#WEATHER DATA CHALLENGE
+# WEATHER DATA CHALLENGE
 
 I am interested in weather trends in Tallahassee Florida.  I want you to analyze data about historical temperatures using the following data set:
 
